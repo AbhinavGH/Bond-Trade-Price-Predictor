@@ -1,7 +1,7 @@
 # _Real World Machine Learning Model_ 
 *Aim*:
 
->**Data cleaning **
+>Data cleaning 
 
 >**_Training and comparing multiple models_**
 
